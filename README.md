@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/bohdan-fadieiev](https://www.linkedin.com/in/bohdan-fadieiev-a9a017234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan-fadieiev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bohdan-fadieiev-a9a017234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan-fadieiev" height="30" width="40" /></a>
 <a href="https://instagram.com/gromov.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gromov.jpg" height="30" width="40" /></a>
 <a href="https://discord.gg/7650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7650" height="30" width="40" /></a>
 </p>
