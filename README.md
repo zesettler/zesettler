@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bohdan Fadieiev</h1>
-<h3 align="center">A passionate developer from Ukraine. Trying to learn something new everyday.</h3>
+<h3 align="center">A passionate developer from Ukraine. Trying to code everyday.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/zesettler/zesettler/assets/126499235/4f0770d5-e6bf-46fc-8ba8-b7a52736c683">
 
